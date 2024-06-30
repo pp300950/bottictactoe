@@ -1,6 +1,6 @@
-let botScore = 0; // คะเเนนของบอท
-    let playerScore = 0; // คะเเนนของผู้เล่น
-    let drawScore = 0; // คะเเนนการเสมอ
+let botScore = 0; 
+    let playerScore = 0; 
+    let drawScore = 0;
     const botPlayer = 'O';
     const humanPlayer = 'X';
     const boardSize = 3;
